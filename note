@@ -1,0 +1,5 @@
+sudo docker build . -t tagname -f Dockerfile
+sudo docker run -it imagename bash
+sudo docker run -it ubuntu bash
+
+sudo docker-compose up
